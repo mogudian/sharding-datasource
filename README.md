@@ -38,12 +38,12 @@
 
 ## 依赖三方库
 
- 依赖           | 版本号           | 说明  
---------------|---------------|-----
-spring-boot-jdbc | 2.3.4.RELEASE |  
-commons-lang3 | 3.11          |
-shardingsphere | 4.1.1          |
-lombok | 1.18.16 | 
+| 依赖               | 版本号           | 说明  |
+|------------------|---------------|-----|
+| spring-boot-jdbc | 2.3.4.RELEASE |     |
+| commons-lang3    | 3.11          |     |
+| shardingsphere   | 4.1.1         |     |
+| lombok           | 1.18.16       |     |
 
 ## 使用前准备
 
