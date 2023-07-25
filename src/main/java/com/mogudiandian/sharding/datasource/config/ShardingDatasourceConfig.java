@@ -5,7 +5,7 @@ import lombok.Setter;
 
 /**
  * 分库分表的JDBC配置
- * @author sunbo
+ * @author Joshua Sun
  */
 @Getter
 @Setter

@@ -22,7 +22,7 @@ import java.util.stream.Stream;
 
 /**
  * 按字段/列分库分表数据源
- * @author sunbo
+ * @author Joshua Sun
  */
 public class ColumnShardingDataSource extends RoutingDataSource implements DataSource {
 

@@ -7,7 +7,7 @@ import javax.sql.DataSource;
 
 /**
  * 主从数据源的组合
- * @author sunbo
+ * @author Joshua Sun
  */
 @Getter
 @Setter

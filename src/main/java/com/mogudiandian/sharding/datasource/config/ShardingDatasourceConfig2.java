@@ -8,7 +8,7 @@ import javax.sql.DataSource;
 
 /**
  * 分库分表的JDBC配置(新)
- * @author sunbo
+ * @author Joshua Sun
  */
 @Getter
 @Setter

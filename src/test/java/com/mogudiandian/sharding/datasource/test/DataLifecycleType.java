@@ -2,7 +2,7 @@ package com.mogudiandian.sharding.datasource.test;
 
 /**
  * 数据的生命周期类型
- * @author sunbo
+ * @author Joshua Sun
  */
 public enum DataLifecycleType {
 

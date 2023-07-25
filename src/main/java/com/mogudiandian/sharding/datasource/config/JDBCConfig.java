@@ -7,7 +7,7 @@ import java.util.Properties;
 
 /**
  * JDBC的配置
- * @author sunbo
+ * @author Joshua Sun
  */
 @Getter
 @Setter

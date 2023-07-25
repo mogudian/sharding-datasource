@@ -9,7 +9,7 @@
 
     <groupId>com.mogudiandian</groupId>
     <artifactId>sharding-datasource</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <name>sharding-datasource</name>
     <description>Sharding Datasource</description>

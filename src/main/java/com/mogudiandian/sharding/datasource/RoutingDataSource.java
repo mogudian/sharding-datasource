@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 
 /**
  * 路由数据源
- * @author sunbo
+ * @author Joshua Sun
  */
 public abstract class RoutingDataSource implements DataSource, Closeable {
 

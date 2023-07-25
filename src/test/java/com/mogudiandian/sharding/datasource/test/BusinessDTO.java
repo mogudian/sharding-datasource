@@ -5,7 +5,7 @@ import lombok.Setter;
 
 /**
  * 业务DTO
- * @author sunbo
+ * @author Joshua Sun
  */
 @Getter
 @Setter

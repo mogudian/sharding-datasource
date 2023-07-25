@@ -10,7 +10,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * 多数据源
- * @author sunbo
+ * @author Joshua Sun
  */
 public class KeyRoutingDataSource<K extends Serializable> extends RoutingDataSource implements DataSource {
 

@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * 任务数据源配置
- * @author sunbo
+ * @author Joshua Sun
  */
 @Getter
 @Setter

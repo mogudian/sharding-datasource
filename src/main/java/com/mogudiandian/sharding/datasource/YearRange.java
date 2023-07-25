@@ -9,7 +9,7 @@ import java.util.Optional;
 /**
  * 年范围
  * 如果只有一年 开始和结束相同
- * @author sunbo
+ * @author Joshua Sun
  */
 @Getter
 public class YearRange implements Serializable, Comparable<YearRange> {

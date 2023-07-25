@@ -6,7 +6,7 @@ import lombok.Setter;
 
 /**
  * 归档库的配置
- * @author sunbo
+ * @author Joshua Sun
  */
 @Getter
 @Setter

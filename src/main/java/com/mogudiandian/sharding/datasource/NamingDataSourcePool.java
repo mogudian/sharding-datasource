@@ -8,7 +8,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 有名称的数据源
  * 和KeyRouting的区别在于这里的map是全局的，这个实例只需要创建一个，不断进行add/replace即可
- * @author sunbo
+ * @author Joshua Sun
  */
 public final class NamingDataSourcePool extends RoutingDataSource {
 

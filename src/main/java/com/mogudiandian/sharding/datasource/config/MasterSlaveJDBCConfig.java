@@ -5,7 +5,7 @@ import lombok.Setter;
 
 /**
  * JDBC的配置
- * @author sunbo
+ * @author Joshua Sun
  */
 @Getter
 @Setter

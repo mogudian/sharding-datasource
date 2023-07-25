@@ -2,7 +2,7 @@ package com.mogudiandian.sharding.datasource.test;
 
 /**
  * 任务对象类型
- * @author sunbo
+ * @author Joshua Sun
  */
 public enum TaskObjectName {
 

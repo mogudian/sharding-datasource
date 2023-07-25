@@ -2,7 +2,7 @@ package com.mogudiandian.sharding.datasource.test;
 
 /**
  * 数据源的上下文
- * @author sunbo
+ * @author Joshua Sun
  */
 public final class DatasourceContext {
 

@@ -10,7 +10,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * 按年度分片数据源
- * @author sunbo
+ * @author Joshua Sun
  */
 public final class YearRoutingDataSource extends RoutingDataSource implements DataSource {
 

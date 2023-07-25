@@ -2,7 +2,7 @@ package com.mogudiandian.sharding.datasource.test;
 
 /**
  * 企业数据对象类型
- * @author sunbo
+ * @author Joshua Sun
  */
 public enum CompanyDataObjectName {
 

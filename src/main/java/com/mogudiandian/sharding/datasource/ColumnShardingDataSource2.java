@@ -18,7 +18,7 @@ import java.util.stream.Stream;
 
 /**
  * 按字段/列分库分表数据源(新)
- * @author sunbo
+ * @author Joshua Sun
  */
 public class ColumnShardingDataSource2 extends RoutingDataSource implements DataSource {
 
